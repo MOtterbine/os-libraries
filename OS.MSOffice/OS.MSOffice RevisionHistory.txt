@@ -1,0 +1,5 @@
+﻿OS.MSOffice.dll - Otterbine Solutions's primary shared .NET library
+
+1.0.0.1         - Beginning of library versioning. 
+                - This office module is separate because it required MS Office excel dll via COM....keeping this functionality separate
+

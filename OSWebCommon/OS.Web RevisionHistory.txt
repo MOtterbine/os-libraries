@@ -1,0 +1,9 @@
+﻿OS.Web.dll - Otterbine Solutions's primary shared .NET library
+
+1.0.0.0         - Initial Release 
+
+1.0.0.1         - Add MVC NoCacheAttribute - to enable get actions to not be cached (i.e. - called every time) 
+
+1.0.0.2         - Add MVC extension to enable translating mvc actionresult objects to string..(for emails initiallly) 
+
+1.0.0.3         - Add MVC 'Controller' extension to enable easily translating posted json data to c# objects 
